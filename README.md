@@ -1,4 +1,2 @@
 # basic_pytorch
-# basic_pytorch
-# basic_pytorch
-# basic_pytorch
+# scikit-learn wine dataset tutorial
